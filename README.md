@@ -24,3 +24,7 @@ The data we recieved is in a csv file, so first we have to import the csv module
 - The total number of votes counted in the congressional election in this precinct was 369,711 votes.
 - The county with the least amount of votes was Arapahoe with 24,801 votes making up 6.7% of the total votes cast. The county with the second most was Jefferson with 38,855 votes making up 10.3% of the total votes cast. The county with the most votes cast was Denver with 308,055 votes making up 82.8% of the total votes cast.
 - The county with the highest percentage of votes cast was Denver with 82.8% of the total votes cast in the congressional election.
+- The candidate with the least amount of votes cast for them was Raymon Anthony Doane with 11,606 votes, or 3.1% of the total votes cast in the precinct. The candidate with the second most votes was Charles Casper Stockham with 85,213 votes or 23.0% of the total votes cast in the precinct. The candidate with the most votes is Diana DeGette with 73.8% of the total votes cast in the precicnt.
+- The winner of the congressional election in this precinct with 73.8% of the total votes cast and counted was Diana DeGette.
+
+### Possible Further Use of Automated Audit Script
