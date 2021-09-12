@@ -19,4 +19,4 @@ The data we recieved is in a csv file, so first we have to import the csv module
 
 ### Audit Results
 
-! [Text file of results for county and candidate votes]{https://github.com/roeggealissa/election-analysis/blob/875407244e71a2e17727e6560ce6f03b9174cc1c/Screen%20Shot%202021-09-12%20at%2011.40.38%20AM.png}
+! [Text file of results for county and candidate votes](https://github.com/roeggealissa/election-analysis/blob/875407244e71a2e17727e6560ce6f03b9174cc1c/Screen%20Shot%202021-09-12%20at%2011.40.38%20AM.png)
