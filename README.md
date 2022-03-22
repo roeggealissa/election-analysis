@@ -4,8 +4,7 @@
 # Election Audit Using Python
 
 ### Introduction
-
-Our client, the Colorado Board of Elections, would like for us to do an audit of a US congressional race results for one prescinct. Our liason Tom and his manager Steve want the project done in Python rather than using Excel. The Python automated process can then be applied to other races and be scaled up or down depending on the usage. 
+The project is to audit the US congressional race results for one prescinct in Colorado. The project is completed in Python rather than excel to automate the process which can then be applied to other races and be scaled up or down depending on the usage. 
 
 ### Data Analysis
 
